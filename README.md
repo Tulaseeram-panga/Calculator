@@ -20,11 +20,11 @@ Watch the video: [Link to YouTube](https://youtu.be/xpCE7HVRXzM)
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/calculator.git
+   git clone https://github.com/Tulaseeram-panga/Calculator.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd calculator
+   cd Calculator
    ```
 3. **Compile the project**:
    ```bash
