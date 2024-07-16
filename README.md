@@ -13,7 +13,7 @@ This is a simple calculator application built using Java Swing. It supports basi
 - **Clear**: Reset the input fields and result.
 
 ## Screenshots
-![Calculator Screenshot]()
+![Calculator Screenshot](Screenshots/IMG_20240716_152127.jpg)
 
 ## Installation
 1. **Clone the repository**:
