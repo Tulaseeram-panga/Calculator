@@ -17,9 +17,6 @@ This is a simple calculator application built using Java Swing. It supports basi
 ## YouTube Video
 Watch the video: [Link to YouTube](https://youtu.be/xpCE7HVRXzM)
 
-## Watch the Video
-[![Watch the video](https://img.youtube.com/vi/xpCE7HVRXzM/maxresdefault.jpg)](https://youtu.be/xpCE7HVRXzM)
-
 ## Installation
 1. **Clone the repository**:
    ```bash
