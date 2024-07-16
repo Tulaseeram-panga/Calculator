@@ -1,5 +1,6 @@
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+![MIT License](https://img.shields.io/github/license/Tulaseeram-panga/Calculator)
 # Calculator
 
 ## Description
