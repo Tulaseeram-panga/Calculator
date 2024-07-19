@@ -51,4 +51,4 @@ For any questions or suggestions, please reach out to:
 - **Your Name**: Tulasee Ram Panga
 - **Email**:
   tulaseerampanga@gmail.com
-- **GitHub**: [tulaseerampanga](https://github.com/Tulaseeram-panga)
+- **GitHub**: [tulaseeram-panga](https://github.com/Tulaseeram-panga)
