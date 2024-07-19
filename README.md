@@ -20,19 +20,19 @@ Watch the video: [Link to YouTube](https://youtu.be/xpCE7HVRXzM)
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Tulaseeram-panga/Calculator.git
+   git clone https://github.com/Tulaseeram-panga/calculator.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd Calculator
+   cd calculator
    ```
 3. **Compile the project**:
    ```bash
-   javac Calculator.java
+   javac calculator.java
    ```
 4. **Run the application**:
    ```bash
-   java Calculator
+   java calculator
    ```
 
 ## Usage
@@ -51,4 +51,4 @@ For any questions or suggestions, please reach out to:
 - **Your Name**: Tulasee Ram Panga
 - **Email**:
   tulaseerampanga@gmail.com
-- **GitHub**: [yourusername](https://github.com/Tulaseeram-panga)
+- **GitHub**: [tulaseerampanga](https://github.com/Tulaseeram-panga)
